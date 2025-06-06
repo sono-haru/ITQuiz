@@ -12,6 +12,7 @@ type QuizSelectProps = {
 const QuizSelect: React.FC<QuizSelectProps> = ({ href,imgSrc,alt,text }) => {
   return (
     <div>
+      <p>test</p>
       <Link href={`./quiz/${href}`}>
         <Image src={`/${imgSrc}.svg`} alt={alt} width={75} height={75}
             className="w-75 rounded-3xl border-2 border-gray-300 hover active"
