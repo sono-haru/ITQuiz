@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <>
       <div className="text-center flex justify-center items-center">
-        <div className="grid grid-cols-2 gap-x-10 justify-center items-center h-screen text-xl font-bold">
+        <div className="grid grid-cols-1 md:grid-cols-2 mt-10 md:mt-0 gap-x-10 gap-y-10 md:gap-y-0 justify-center items-center h-screen text-xl font-bold">
 
           <QuizSelect
             href="nameChangeQuiz"
@@ -63,9 +63,10 @@ export default function Home() {
             alt="IT用語クイズ画像"
             text="IT用語クイズ"
           />
+          <div className="pb-10 md:hidden"></div>
         </div>
         
-        <div className="fixed bottom-5 right-14 flex items-center gap-4">
+        <div className="fixed bottom-5 md:right-14 flex items-center justify-center md:justify-end gap-4">
           <ContactIcon
             href="https://www.instagram.com/ds._.nb"
             src="/inst-icon.svg"
