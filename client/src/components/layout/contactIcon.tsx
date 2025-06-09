@@ -14,7 +14,7 @@ const ContactIcon: React.FC<ContactIconProps> = ({ href, src , alt , width , hei
   return (
     <a href={href}>
         <Image
-            src = {src}
+            src = {`/contactImg/${src}.svg`}
             alt = {alt}
             width = {width}
             height = {height}

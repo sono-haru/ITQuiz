@@ -59,7 +59,7 @@ const QuizSelect: React.FC<QuizSelectProps> = ({ href, imgSrc, alt, text }) => {
         style={{ cursor: 'pointer', display: 'inline-block' }}
       >
         <Image
-          src={`/${imgSrc}.svg`}
+          src={`/quizSelect/${imgSrc}.svg`}
           alt={alt}
           width={75}
           height={75}

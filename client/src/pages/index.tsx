@@ -69,7 +69,7 @@ export default function Home() {
         <div className="fixed bottom-5 md:right-14 flex items-center justify-center md:justify-end gap-4">
           <ContactIcon
             href="https://www.instagram.com/ds._.nb"
-            src="/inst-icon.svg"
+            src="/inst-icon"
             alt="インスタアイコン"
             width={35}
             height={35}
@@ -77,7 +77,7 @@ export default function Home() {
 
           <ContactIcon
             href="https://github.com/sono-haru"
-            src="/github-icon.svg"
+            src="/github-icon"
             alt="GitHubアイコン"
             width={40}
             height={40}
@@ -85,7 +85,7 @@ export default function Home() {
 
           <ContactIcon
             href=""
-            src="/mail-icon.svg"
+            src="/mail-icon"
             alt="メールアイコン"
             width={35}
             height={35}
