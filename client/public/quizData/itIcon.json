@@ -1,0 +1,101 @@
+[
+  {
+    "options": ["JavaScript", "HTML", "PHP", "CSS"],
+    "correct": "HTML"
+  },
+
+  {
+    "options": ["HTML", "Django", "CSS", "React"],
+    "correct": "CSS"
+  },
+
+  {
+    "options": ["React Native", "Swift", "Python", "React"],
+    "correct": "React"
+  },
+
+  {
+    "options": ["Rust", "JavaScript", "Go", "Python"],
+    "correct": "JavaScript"
+  },
+
+  {
+    "options": ["Go", "TypeScript", "Linux", "Rust"],
+    "correct": "Go"
+  },
+
+  {
+    "options": ["Supabase", "Vue.js", "Ruby", "Tailwind"],
+    "correct": "Tailwind"
+  },
+
+  {
+    "options": ["Python", "Django", "Kotlin", "GitHub"],
+    "correct": "Django"
+  },
+
+  {
+    "options": ["Ruby", "Swift", "Kotlin", "Ruby on Rails"],
+    "correct": "Ruby"
+  },
+
+  {
+    "options": ["GitHub", "ChatGPT", "Rust", "CSS"],
+    "correct": "GitHub"
+  },
+
+  {
+    "options": ["Tailwind", "Supabase", "css", "Vue.js"],
+    "correct": "Vue.js"
+  },
+
+  {
+    "options": ["MongoDB", "Flutter", "Python", "Supabase"],
+    "correct": "Supabase"
+  },
+
+  {
+    "options": ["Rust", "Go", "Ruby", "HTML"],
+    "correct": "Rust"
+  },
+
+  {
+    "options": ["Python", "PyCharm", "PyTorch", "Pygame"],
+    "correct": "Python"
+  },
+
+  {
+    "options": ["Swift", "Kotlin", "Flutter", "React Native"],
+    "correct": "Kotlin"
+  },
+
+  {
+    "options": ["Pug", "Dog", "GitHub", "MariaDB"],
+    "correct": "Pug"
+  },
+  
+  {
+    "options": ["Flutter", "TypeScript", "Tailwind", "Go"],
+    "correct": "Flutter"
+  },
+
+  {
+    "options": ["PHP", "Rust", "Laragon", "Laravel"],
+    "correct": "Laravel"
+  },
+
+  {
+    "options": ["ChatGPT", "React", "Redux", "Atom"],
+    "correct": "ChatGPT"
+  },
+
+  {
+    "options": ["MariaDB", "MongoDB", "MySQL", "PHP"],
+    "correct": "MariaDB"
+  },
+
+  {
+    "options": ["MariaDB", "MySQL", "GraphQL", "Swift"],
+    "correct": "MySQL"
+  }
+]
