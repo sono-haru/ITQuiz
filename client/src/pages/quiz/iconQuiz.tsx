@@ -21,7 +21,8 @@ export default function IconQuiz() {
     const fetchData = async () => {
       const res = await fetch('/quizData/itIcon.json')
       const data: Quiz[] = await res.json()
-      setQuizData(data[2])
+      const randomIndex = Math.floor(Math.random() * data.length)
+      setQuizData(data[randomIndex])
     }
     fetchData()
   }, [])
